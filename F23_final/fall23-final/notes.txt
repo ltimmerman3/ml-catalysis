@@ -1,0 +1,5 @@
+Files:
+- LLAMA-INSTRUCTIONS.txt - a text file detailing how to create custom queries and run LLaMA.
+- customQuery_test.txt - LLaMA result from the first 3 catalysis-related questions
+- customQuery_test2.txt - LLaMA results from the second 3 catalysis-related questions
+- customQuery_test3.txt - LLaMA results from the last 2 catalysis-related questions
